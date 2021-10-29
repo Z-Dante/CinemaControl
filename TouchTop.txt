@@ -29,47 +29,47 @@
 				<Layout Align='Right' Width='12' />				
 
 				
-				<Button Align='Right' Tooltip='Скриншот в буфер | В файл...' Alignment='5'  CmdID='ID_VIDEO_IMAGE_COPY_SIZE' AltCmdID='ID_VIDEO_IMAGE_CAPTURE_SIZE'  Width='15' Height='14' ImageLeft='593' ImageTop='89' ImageWidth='15' ImageHeight='14' OffsetTop='0' />	
+				<Button Align='Right' Tooltip='Screenshot to clipboard | File...' Alignment='5'  CmdID='ID_VIDEO_IMAGE_COPY_SIZE' AltCmdID='ID_VIDEO_IMAGE_CAPTURE_SIZE'  Width='15' Height='14' ImageLeft='593' ImageTop='89' ImageWidth='15' ImageHeight='14' OffsetTop='0' />	
 				<Layout Align='Right' Width='13' />				
-				<Button Align='Right' Tooltip='Вывод инфы на экран' Alignment='5' CmdID='ID_PLAYINFO_OSD' AltCmdID='CMD_SET_SKIN_STYLE' SkinStyle='Geeky' Left='6' Top='10' Width='14' Height='14' ImageLeft='593' ImageTop='66' VisParentMinWidth='685' />
+				<Button Align='Right' Tooltip='Display Screen Information' Alignment='5' CmdID='ID_PLAYINFO_OSD' AltCmdID='CMD_SET_SKIN_STYLE' SkinStyle='Geeky' Left='6' Top='10' Width='14' Height='14' ImageLeft='593' ImageTop='66' VisParentMinWidth='685' />
 				<Layout Align='Right' Width='10' />
 
-					<Button Align='Right' Tooltip='Проводник субтитров'			CmdID='ID_CAPTION_EXPLORER' AltCmdID='ID_SIMPLE_CAPTION_OPEN'	 Width='13' Height='14' ImageLeft='595' ImageTop='113' >
+					<Button Align='Right' Tooltip='Subtitle Browser'			CmdID='ID_CAPTION_EXPLORER' AltCmdID='ID_SIMPLE_CAPTION_OPEN'	 Width='13' Height='14' ImageLeft='595' ImageTop='113' >
 
 					</Button>
 				<Layout Align='Right' Width='10' />	
 				
-				<Button Align='Right' Tooltip='Выключить режим "кино"'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='89' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
+				<Button Align='Right' Tooltip='Show Seekbar'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='89' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
 
-				<Button Align='Right' Tooltip='Включить режим "кино"'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'   Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='113' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
+				<Button Align='Right' Tooltip='Hide Seekbar'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'   Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='113' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
 				<Layout Align='Right' Width='205' />	
-				<Button Tooltip='Увеличить субтитры' CmdID='ID_CAPTION_INC_SIZE' Left='-250' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
-				<Button Tooltip='Уменьшить субтитры' CmdID='ID_CAPTION_DEC_SIZE' Left='-250' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	%sFPS🎨💬↕↔🏃
+				<Button Tooltip='Enlarge Subtitles' CmdID='ID_CAPTION_INC_SIZE' Left='-250' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
+				<Button Tooltip='Shrink Subtitles' CmdID='ID_CAPTION_DEC_SIZE' Left='-250' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	%sFPS🎨💬↕↔🏃
 	         <Label Text='↕A' AutoVisible='1' AutoSize='1' Left='-270' Top='0' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='-2' />
 				
-				<Button Tooltip='Увеличить отступ субтитров' CmdID='ID_CAPTION_INC_HMARGIN' Left='-290' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
-				<Button Tooltip='Уменьшить отступ субтитров' CmdID='ID_CAPTION_DEC_HMARGIN' Left='-290' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
+				<Button Tooltip='Increase Subtitle Margin' CmdID='ID_CAPTION_INC_HMARGIN' Left='-290' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
+				<Button Tooltip='Decrease Subtitle Margin' CmdID='ID_CAPTION_DEC_HMARGIN' Left='-290' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
 %sFPS🎨💬↕↔🏃
 	         <Label Text='↔' AutoVisible='1' AutoSize='1' Left='-310' Top='0' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='-2' />
 			 
-				<Button Tooltip='Увеличить цветность' CmdID='ID_VIDEO_INC_HUE' Left='-330' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
-				<Button Tooltip='Уменьшить цветность' CmdID='ID_VIDEO_DEC_HUE' Left='-330' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
+				<Button Tooltip='Increase Saturation' CmdID='ID_VIDEO_INC_HUE' Left='-330' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
+				<Button Tooltip='Decrease Saturation' CmdID='ID_VIDEO_DEC_HUE' Left='-330' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
 %sFPS🎨💬↕↔🏃
 	         <Label Text='🎨' AutoVisible='1' AutoSize='1' Left='-350' Top='0' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='-2' />
 			 
 			 
-				<Button Tooltip='Увеличить скорость' CmdID='ID_PLAY_SPEED_FASTER' Left='-370' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
-				<Button Tooltip='Уменьшить скорость' CmdID='ID_PLAY_SPEED_SLOWER' Left='-370' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
+				<Button Tooltip='Increase Playback Speed' CmdID='ID_PLAY_SPEED_FASTER' Left='-370' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
+				<Button Tooltip='Decrease Playback Speed' CmdID='ID_PLAY_SPEED_SLOWER' Left='-370' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	
 %sFPS🎨💬↕↔🏃
 	         <Label Text='🏃' AutoVisible='1' AutoSize='1' Left='-390' Top='0' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='-2' />
 			 
-				<Button Tooltip='Следующая позиция субтитров' CmdID='ID_PLAYBACK_NEXT_CAP' Left='-410' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
-				<Button Tooltip='Предыдущая позиция субтитров' CmdID='ID_PLAYBACK_PREV_CAP' Left='-410' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />			
+				<Button Tooltip='Next Subtitle Position' CmdID='ID_PLAYBACK_NEXT_CAP' Left='-410' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
+				<Button Tooltip='Previous Subtitle Position' CmdID='ID_PLAYBACK_PREV_CAP' Left='-410' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />			
 %sFPS🎨💬↕↔🏃
 	         <Label Text='💬' AutoVisible='1' AutoSize='1' Left='-434' Top='0' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='-2' />
 			 
 					#if<SkinStyle==Geeky>
-				<Slider Align='Right' OffsetTop='13' Tooltip='Прозрачность' CmdID='CMD_TRANS_MAIN' Width='40' Height='16' ImageWidth='64' ImageHeight='16' ThumbWidth='17' ThumbHeight='16' ImageLeft='283' ImageTop='95' BackImageLeft='283' BackImageTop='83' ThumbImageLeft='283' ThumbImageTop='114' LeftMargin='5' RightMargin='5'/>
+				<Slider Align='Right' OffsetTop='13' Tooltip='Transparency' CmdID='CMD_TRANS_MAIN' Width='40' Height='16' ImageWidth='64' ImageHeight='16' ThumbWidth='17' ThumbHeight='16' ImageLeft='283' ImageTop='95' BackImageLeft='283' BackImageTop='83' ThumbImageLeft='283' ThumbImageTop='114' LeftMargin='5' RightMargin='5'/>
 	         <Label CmdID='CMD_VIDEO_RENDER_FPS_MESSAGE' Text='%s🎬' AutoVisible='1' AutoSize='1' Align='Right' Left='-50' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='0' />
 	         <Label CmdID='CMD_VIDEO_OUT_FPS_MESSAGE' Text='%s🡆' AutoVisible='1' AutoSize='1' Align='Right' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16'  HoriAlignment='1' VertAlignment='1' OffsetTop='0' />
 	         <Label CmdID='CMD_CPU_USAGE_SYSTEM_MESSAGE' Text='%s⚡ ' AutoVisible='1' AutoSize='1' Align='Right' ColorX='509' ColorY='11' Width='1' FontName='Tahoma' FontSize='16' HoriAlignment='1' VertAlignment='1' OffsetTop='0' />	
