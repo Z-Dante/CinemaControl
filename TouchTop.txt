@@ -39,9 +39,9 @@
 					</Button>
 				<Layout Align='Right' Width='10' />	
 				
-				<Button Align='Right' Tooltip='Movie Mode'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='89' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
+				<Button Align='Right' Tooltip='Movie Mode (Show Seekbar)'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='89' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
 
-				<Button Align='Right' Tooltip='Movie Mode'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'   Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='113' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
+				<Button Align='Right' Tooltip='Movie Mode (Hide Seekbar)'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'   Alignment='5' Width='14' Height='14' ImageLeft='660' ImageTop='113' ImageWidth='14' ImageHeight='14' VisParentMinWidth='653' />
 				<Layout Align='Right' Width='205' />	
 				<Button Tooltip='Enlarge Subtitles' CmdID='ID_CAPTION_INC_SIZE' Left='-250' Top='8' Width='15' Height='10' ImageLeft='396' ImageTop='119' />
 				<Button Tooltip='Shrink Subtitles' CmdID='ID_CAPTION_DEC_SIZE' Left='-250' Top='20' Width='15' Height='10' ImageLeft='396' ImageTop='129' />	%sFPS🎨💬↕↔🏃
