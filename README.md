@@ -19,4 +19,8 @@ Features ( Without invoking sub-menus), everything at your fingertips:
 +Change transparency of the player window
 +Screenshot to clipboard/file (left/right mouse button)
 +Subtitle Browser
-+Changing System Master Volume
++Changing System Master Volume!
+
+Skin Screenshot:
+
+![Skin Preview](https://user-images.githubusercontent.com/34379513/139461339-df73f300-8742-43ef-9ed2-922a297ddde6.png)
