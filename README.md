@@ -1,29 +1,22 @@
-# CinemaControl
-Гикованный скин для потплеера из сборки Median Subtitles
-Заточен под работу с субтитрами, уплавнялкой, изменением громкости через усиление
-Обсудить в чате можно https://vk.me/join/AJQ1d1YbwAreWydK1aGENoWn или https:/t.me/supersvp
-Самый функциональный, но не самый вылизанный скин. Часто лень задавать условия под маленькие размеры окна, чтобы элементы правильно скрывались, возможно неидеальное выравнивание, может встречаться мусор в коде, скин работает корректно только при форсированном выборе сенсорного скина. Предложения/правки приветствуются
+A geeky skin for potplayer from the Median Subtitles build
+Tailored to work with subtitles, equalization, volume change through amplification
+Chat about it at https://vk.me/join/AJQ1d1YbwAreWydK1aGENoWn or https:/t.me/supersvp
+The most functional, but not the most polished skin. Often lazy to make conditions for small window size, to hide elements correctly, maybe not perfect alignment, there may be some garbage in the code, the skin works correctly only when forced to select a touch screen skin. Suggestions/amendments are welcome.
 
-Возможности (без вызова подпунктов), подменю, всё под рукой:
-+Используются крупные иконки и шрифт для читабельности и удобства тыканья
-+Отображение загрузки ЦП
-+Выходное количество кадров (рендеренных и собсна выходных)
-+Прозрачность окна проигрывателя
-+Переход между позициями субтитров
-+Ускорение/замедление
-+Изменение размера шрифта субтитров и отступов
-+Режим "Кино" - скрывается временная панель. По мне её наличие мешает погружению в фильмы, невозможно "потеряться" в нём, когда знаешь, когда закончится фильм, это уменьшает внезапность. Временной панели нет по умолчанию ни в кино, ни в телевизоре. Кнопка перехода/выхода из этого режима есть внизу (большая) и вверху (маленькая), выглядит как значёк кадра
-+Быстрый вызов параметров субтитров, чтобы настроить прозрачность, в целом
-+Выбор аудиодорожки, субтитров
-+Доступ к avisynth скриптам
-+"Недание" (избранные) файлы
-+Изменение насыщенности
-+Изменение прозрачности окна проигрывателя
-+Скриншот в буфер обмена/в файл (левая/правая кнопка мыши)
-+Проводник субтитров
-+Изменение громкости системы
-
-190510
-Наличие в гитхабе
-Скин емоджицирован, что сделало его более расширенным (поясняющие емоджи для стрелочек вверх-вниз) и более компактным
-Также слайдер громкости системы переехал вниз, поэтому пришлось несколько более компактный стоковый слайдер юзать
+Features ( Without invoking sub-menus), everything at your fingertips:
++Use large icons and font for readability and easy clickability
++Display System load
++Output frame count (rendered and actual output frames)
++Switching between subtitle positions
++Playback speed Acceleration/deceleration
++Change subtitle font size and margin
++Movie Mode hides the time bar. If you ask me, the time bar makes it hard to immerse yourself in the movie, you can't get lost in it when you know when the movie is over, it makes it less abrupt. There is no default seek bar either in movies or on TV. There is a transition/exit button at the bottom (large) and at the top (small) that looks like a frame icon
++Fast recall of subtitle settings to adjust transparency, in general
++Select audio track and subtitles
++Easy Access to avisynth scripts
++"Unsaved" (favorite) files
++Change saturation
++Change transparency of the player window
++Screenshot to clipboard/file (left/right mouse button)
++Subtitle Browser
++Changing System Master Volume

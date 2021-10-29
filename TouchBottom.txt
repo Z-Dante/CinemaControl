@@ -36,8 +36,8 @@
 				<Button Align='Right'  CmdID='ID_CAPTION_SELECT_MENU' Tooltip='Select subtitles | Open subtitles' AltCmdID='ID_CAPTION_OPEN' VertAlignment='0' Width='61' ImageLeft='246' ImageTop='1064' ImageWidth='61' ImageHeight='60' VisParentMinWidth='531' />		
 				<Button Align='Right'  CmdID='ID_AUDIO_SELECT_MENU' Tooltip='Select Audio Track' AltCmdID='ID_VIDEO_AVISYNTH' VertAlignment='0' Width='61' ImageLeft='246' ImageTop='1125' ImageWidth='61' ImageHeight='60' VisParentMinWidth='592' />	
 				
-				<Button Align='Right' Tooltip='Show Seekbar'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  AltCmdID='ID_PLAYINFO_OSD' VertAlignment='0' Width='61' ImageLeft='0' ImageTop='1310' ImageWidth='61' ImageHeight='60' VisParentMinWidth='653' />
-				<Button Align='Right' Tooltip='Hide Seekbar'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'  AltCmdID='ID_PLAYINFO_OSD' VertAlignment='0' Width='61' ImageLeft='246' ImageTop='1310' ImageWidth='61' ImageHeight='60' VisParentMinWidth='653' />				
+				<Button Align='Right' Tooltip='Movie Mode'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='1' SkinStyle='Cinema'  AltCmdID='ID_PLAYINFO_OSD' VertAlignment='0' Width='61' ImageLeft='0' ImageTop='1310' ImageWidth='61' ImageHeight='60' VisParentMinWidth='653' />
+				<Button Align='Right' Tooltip='Movie Mode'  CmdID='CMD_SET_SKIN_STYLE' AutoVisible='-1' SkinStyle='Cinema'  AltCmdID='ID_PLAYINFO_OSD' VertAlignment='0' Width='61' ImageLeft='246' ImageTop='1310' ImageWidth='61' ImageHeight='60' VisParentMinWidth='653' />				
 				<Button Align='Right'  CmdID='ID_CAPTION_STYLE_SET' Tooltip='Subtitle Settings'  VertAlignment='0' Width='61' ImageLeft='246' ImageTop='1187' ImageWidth='61' ImageHeight='60' VisParentMinWidth='714' />	
 				<Button Align='Right'  CmdID='CMD_POPUPMENU_VIDEO_AVISYNTH' Tooltip='AVS Settings | Profiles' AltCmdID='ID_VIDEO_AVISYNTH' VertAlignment='0' Width='61' ImageLeft='0' ImageTop='1249' ImageWidth='61' ImageHeight='60' VisParentMinWidth='775' />
 	
